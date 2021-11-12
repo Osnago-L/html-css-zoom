@@ -78,6 +78,12 @@ nav{
     margin-right: 20px;
 }
 .nav-right{
+    display: flex;
+    justify-content: flex-end;
+    width: 9%;
+    
+}
+.nav-right a{
     background-color: red;
     padding: 5px 15px;
     border-radius: 10px 10px;
